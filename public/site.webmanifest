@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "BalanceAndGrain",
+  "short_name": "BalanceAndGrain",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
